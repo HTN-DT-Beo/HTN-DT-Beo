@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huỳnh Thiện Nhân</h1>
 - 🔭 I’m currently studing in **HCMUTE university**
 
-- 🌱 I’m currently learning **data analysis and AI**
+- 🌱 I’m currently learning **DATA SCIENCE and AI**
 
 <p align="left">
 </p>
