@@ -3,6 +3,7 @@
 
 - 🌱 I’m currently learning **DATA SCIENCE and AI**
 
+**I am a final-year student majoring in Data Engineering at Ho Chi Minh City University of Technology and Education (HCMUTE). Currently, I am focusing on developing my career in the fields of Data Science and Artificial Intelligence. With a strong passion for data analysis, machine learning, and AI technologies, I am working towards gaining practical skills and expertise to contribute to the advancement of these fields.**
 <p align="left">
 </p>
 
